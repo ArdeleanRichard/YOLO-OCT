@@ -1,7 +1,3 @@
-Here's a suggested **README.md** for your GitHub repository, based on your research paper *"Can YOLO Detect Retinal Pathologies? A Step Towards Automated OCT Analysis"* published in *Diagnostics* (2025):
-
----
-
 # Can YOLO Detect Retinal Pathologies?
 
 *A Step Towards Automated OCT Analysis*
